@@ -3,4 +3,8 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="Client">@android:color/holo_blue_light</color>
+    <color name="Employee">@android:color/holo_green_light</color>
+    <color name="Manager">@android:color/holo_red_dark</color>
+    <color name="Developer">@android:color/black</color>
 </resources>
